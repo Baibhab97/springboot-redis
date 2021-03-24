@@ -1,4 +1,3 @@
-# springboot-redis
 # Spring-Boot application using Redis
 
 This is a sample spring-boot project to demonstrate redis with spring-boot.
