@@ -1,6 +1,6 @@
 # Spring-Boot application using Redis
 
-This is a sample spring-boot project to demonstrate redis with spring-boot.
+This is a sample spring-boot project to demonstrate redis intgeration with spring-boot.
 
 ## Requirements
 * Java 11
@@ -15,7 +15,7 @@ mvn clean install
 ```
 - Run the application
 ```
-java -jar target/redis-0.0.1-SNAPSHOT.jar
+java -jar target/assignment-0.0.1-SNAPSHOT.jar
 ```
 - Make sure your redis-server is up and running
 
