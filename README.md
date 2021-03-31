@@ -1,6 +1,6 @@
-# Spring-Boot application using Redis
+# Spring Boot application using Redis
 
-This is a sample spring-boot project to demonstrate redis intgeration with spring-boot.
+This is a sample spring boot project to demonstrate redis intgeration with spring boot.
 
 ## Requirements
 * Java 11
